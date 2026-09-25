@@ -1,0 +1,6 @@
+{
+  "name": "Burhanpur Mawa Jalebi",
+  "description": "Authentic Burhanpur Mawa Jalebi and traditional Indian sweets with instant WhatsApp ordering, heritage sweet catalog, and local home delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
